@@ -3,3 +3,7 @@ __pycache__/
 
 # ignoring all csv files
 *.csv
+
+# info about the files
+utils1 & utils2 is used in 01,02,03 of neural_networking
+utils3 is used in 04 of neural_networking
